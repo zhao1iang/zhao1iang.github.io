@@ -25,14 +25,13 @@ Internship:
 
 Publications:
 ======
-[Lexical-Based Adversarial Reinforcement Training for Robust Sentiment Classification](https://xusun.org/publication/wordnet_based_adversarial_training.pdf)
-
-Jingjing Xu#, **Liang Zhao**#(equavalent contribution), Hanqi Yan, Qi Zeng, Yun Liang, Xu Sun*
+[Lexical-Based Adversarial Reinforcement Training for Robust Sentiment Classification](https://xusun.org/publication/wordnet_based_adversarial_training.pdf)  
+Jingjing Xu#, **Liang Zhao**#(equavalent contribution), Hanqi Yan, Qi Zeng, Yun Liang, Xu Sun*  
 In **EMNLP'19**. Full paper.
 
 Awards:
 ======
-* Special Scholarship of Peking Unversity. 2019
+* Special Scholarship of Peking Unversity. 2019  
 * First Prize of Shaanxi Higher Mathematics Competition. 2017
 * National Inspirational Scholarship of Northwestern Polytechnical University. 2016
 
