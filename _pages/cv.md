@@ -11,31 +11,27 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science, Northwest Polytechnical Unviersity, 2018
+* M.S. in Data Science, Peking University, 2021
 
-Work experience
+
+Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Research Intern at DAMO Academy, Alibaba, July. 2019 - Now. Advisor: Hongxia Yang and Junyang Lin
+* Summer Intern at LENZTECH, July. 2018 - Sept. 2018. Advisor: Zhouchen Lin
   
 Skills
 ======
-* Skill 1
-* Skill 2
+* Advanced: Python, C++
+* Advanced: Tensorflow, Pytorch
+* Advanced: Tensor2tensor, Fairseq, OpenNMT
+* Fluent in English writing.
+<!-- * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
-
+* Skill 3 -->
+<!-- 
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -56,4 +52,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams --> -->
