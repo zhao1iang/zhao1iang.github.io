@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant of Natural Language Processing"
+title: "Teaching Assistant for the course Natural Language Processing"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
