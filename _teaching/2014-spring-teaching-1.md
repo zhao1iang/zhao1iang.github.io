@@ -13,9 +13,3 @@ TA of Natural language processing course for undergraduate, Peking University, 2
 Natural Language Processing
 ======
 TA of Natural language processing course for undergraduate, Peking University, EECS, 2019-2020
-<!--
-Heading 2
-======
-
-Heading 3
-====== -->
