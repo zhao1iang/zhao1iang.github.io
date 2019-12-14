@@ -22,7 +22,7 @@ Experiences
   
 Skills
 ======
-* Advanced: Python, C++
+* Advanced: Python, C++, Linux
 * Advanced: Tensorflow, Pytorch
 * Advanced: Tensor2tensor, Fairseq, OpenNMT
 * Fluent in English writing.
