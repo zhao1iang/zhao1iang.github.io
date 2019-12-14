@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About:"
+title: "Biography"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -14,26 +14,33 @@ Hi~! I am a second-year master sutdent at Peking University, affiliated with Key
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
 
 Education:
+
 ======
+
 * Master-degree student in Data Science(Computer Science and technology), Peking University, Sept. 2018 -Now. 
 * Bachelor of Computer Science, Northwestern Polytechnical University, Sept. 2014 - Jul. 2018.
 
 Internship:
+
 ======
+
 * Research Intern at DAMO Academy, Alibaba, July. 2019 - Now. Advisor: Hongxia Yang and Junyang Lin
 * Summer Intern at LENZTECH, July. 2018 - Sept. 2018. Advisor: Zhouchen Lin
 
 Publications:
+
 ======
 [Lexical-Based Adversarial Reinforcement Training for Robust Sentiment Classification](https://xusun.org/publication/wordnet_based_adversarial_training.pdf)  
 Jingjing Xu#, **Liang Zhao**#(equavalent contribution), Hanqi Yan, Qi Zeng, Yun Liang, Xu Sun*  
 In **EMNLP'19**. Full paper.
 
 Awards:
+
 ======
-* Special Scholarship of Peking Unversity. 2019  
-* First Prize of Shaanxi Higher Mathematics Competition. 2017
-* National Inspirational Scholarship of Northwestern Polytechnical University. 2016
+
+* Special Scholarship, Peking Unversity. 2019  
+* First Prize in Shaanxi Advanced Mathematics Competition. 2017
+* National Motivational Scholarship, Northwest Polytechnical Univeristy. 2016
 
 <!-- Interests: 
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
