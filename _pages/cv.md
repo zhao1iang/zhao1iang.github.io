@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Computer Science, Northwest Polytechnical Unviersity, 2018
-* M.S. in Data Science, Peking University, 2021
+* M.S. in Data Science, Peking University, 2021(expected)
 
 
 Experiences
