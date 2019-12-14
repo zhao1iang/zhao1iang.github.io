@@ -10,14 +10,12 @@ redirect_from:
 {% include base_path %}
 
 Education
-
 ======
 * B.S. in Computer Science, Northwest Polytechnical Unviersity, 2018
 * M.S. in Data Science, Peking University, 2021
 
 
 Experiences
-
 ======
 * Research Intern at DAMO Academy, Alibaba, July. 2019 - Now. Advisor: Hongxia Yang and Junyang Lin
 * Summer Intern at LENZTECH, July. 2018 - Sept. 2018. Advisor: Zhouchen Lin
