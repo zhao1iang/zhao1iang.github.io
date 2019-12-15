@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi~! I am a second-year master sutdent at Peking University, affiliated with Key Laboratory of  Computational Linguistics (MOE) and [LANCO](https://lanco.pku.edu.cn/) group. [Xu Sun](https://xusun.org/) is my fantastic advisor. My reasearch focus lies within natural language processing in general. I am particularly interested in conditional text generation and long text generation, such as machine translation and story generaion.
+Hi~! I am a second-year master sutdent at Peking University, affiliated with Key Laboratory of  Computational Linguistics (MOE) and [LANCO](https://lanco.pku.edu.cn/) group. [Xu Sun](https://xusun.org/) is my fantastic advisor. My reasearch focus lies within natural language processing in general. I am particularly interested in conditional text generation and long-form text generation, such as machine translation and story generaion.
 
 <!-- What I cannot create, I don't understand. --> 
 <!-- Prior to Peking University
