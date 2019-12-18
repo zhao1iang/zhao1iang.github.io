@@ -17,8 +17,8 @@ Education
 
 Experiences
 ======
-* Research Intern at DAMO Academy, Alibaba, July. 2019 - Now. Advisor: Hongxia Yang and Junyang Lin
-* Summer Intern at LENZTECH, July. 2018 - Sept. 2018. Advisor: Zhouchen Lin
+* Research Intern at DAMO Academy, Alibaba, July. 2019 - Sept. 2019.
+* Summer Intern at LENZTECH, July. 2018 - Sept. 2018.
   
 Skills
 ======
