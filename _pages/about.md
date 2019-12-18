@@ -16,14 +16,14 @@ This is the front page of a website that is powered by the [academicpages templa
 Education:
 ======
 
-* Master-degree student in Data Science(Computer Science and technology), Peking University, Sept. 2018 -Now. 
+* Master-degree student in Data Science(Computer Science and Technology), Peking University, Sept. 2018 -Now. 
 * Bachelor of Computer Science, Northwestern Polytechnical University, Sept. 2014 - Jul. 2018.
 
 Internship:
 ======
 
-* Research Intern at DAMO Academy, Alibaba, July. 2019 - Now. Advisor: Hongxia Yang and Junyang Lin
-* Summer Intern at LENZTECH, July. 2018 - Sept. 2018. Advisor: Zhouchen Lin
+* Research Intern at DAMO Academy, Alibaba, July. 2019 - Sept. 2019.
+* Summer Intern at LENZTECH AI lab, July. 2018 - Sept. 2018.
 
 Publications:
 ======
