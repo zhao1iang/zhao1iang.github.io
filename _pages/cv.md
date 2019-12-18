@@ -18,7 +18,7 @@ Education
 Experiences
 ======
 * Research Intern at DAMO Academy, Alibaba, July. 2019 - Sept. 2019.
-* Summer Intern at LENZTECH, July. 2018 - Sept. 2018.
+* Summer Intern at LENZTECH AI lab, July. 2018 - Sept. 2018.
   
 Skills
 ======
