@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi~! I am a second-year master sutdent at Peking University, affiliated with Key Laboratory of  Computational Linguistics (MOE) and [LANCO](https://lanco.pku.edu.cn/) group. [Xu Sun](https://xusun.org/) is my fantastic advisor. My reasearch focus lies within natural language processing in general. I am particularly interested in conditional text generation and long-form text generation, such as machine translation and story generaion.
+Hi~! I am a third-year master sutdent at Peking University, affiliated with Key Laboratory of  Computational Linguistics (MOE) and [LANCO](https://lanco.pku.edu.cn/) group. [Xu Sun](https://xusun.org/) is my fantastic advisor. My reasearch focus lies in natural language processing in general. I am particularly interested in conditional text generation and long-form text generation, such as machine translation and story generaion.
 
 <!-- What I cannot create, I don't understand. --> 
 <!-- Prior to Peking University
@@ -16,7 +16,7 @@ This is the front page of a website that is powered by the [academicpages templa
 Education:
 ======
 
-* Master-degree student in Data Science(Computer Science and Technology), Peking University, Sept. 2018 -Now. 
+* Master-degree student in Data Science(Computer Science and Technology), Peking University, Sept. 2018 -2021(expected). 
 * Bachelor of Computer Science, Northwestern Polytechnical University, Sept. 2014 - Jul. 2018.
 
 Internship:
@@ -27,16 +27,24 @@ Internship:
 
 Publications:
 ======
+[Long-term, Short-term and Sudden Event: Trading Volume Movement Predictionwith Graph-based Multi-view Modeling ](https://xusun.org/publication/wordnet_based_adversarial_training.pdf)  
+**Liang Zhao**#, **Wei Li**#(equavalent contribution), Ruihan Bao, Keiko Harimoto, Yunfang Wu, Xu Sun*  
+In **IJCAI'21**. Full paper.
+
+[Graph-based Multi-hop Reasoning for Long Text Generation](https://xusun.org/publication/wordnet_based_adversarial_training.pdf)  
+**Liang Zhao**#, **Jingjing Xu**#(equavalent contribution), Junyang Lin, Yichang Zhang, Hongxia Yang, Xu Sun*  
+In **Arxiv'20**. 
+
 [Lexical-Based Adversarial Reinforcement Training for Robust Sentiment Classification](https://xusun.org/publication/wordnet_based_adversarial_training.pdf)  
 Jingjing Xu#, **Liang Zhao**#(equavalent contribution), Hanqi Yan, Qi Zeng, Yun Liang, Xu Sun*  
 In **EMNLP'19**. Full paper.
 
 Awards:
 ======
-
-* Special Scholarship, Peking Unversity. 2019  
+* Merit Student, Peking University. 2020
+* Special Academic Scholarship, Peking University. 2019  
 * First Prize in Shaanxi Advanced Mathematics Competition. 2017
-* National Motivational Scholarship, Northwest Polytechnical Univeristy. 2016
+* National Encouragement Scholarship, Northwest Polytechnical University. 2016
 
 <!-- Interests: 
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
