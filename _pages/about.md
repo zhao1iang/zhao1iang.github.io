@@ -22,7 +22,7 @@ Education:
 Internship:
 ======
 
-* Research Intern at DAMO Academy, Alibaba, July. 2019 - Sept. 2020.
+* Research Intern at DAMO Academy, Alibaba, July. 2019 - Sept. 2019.
 * Summer Intern at LENZTECH AI lab, July. 2018 - Sept. 2018.
 
 Publications:
