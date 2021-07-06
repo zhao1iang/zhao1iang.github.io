@@ -22,17 +22,21 @@ Education:
 Internship:
 ======
 
-* Research Intern at DAMO Academy, Alibaba, July. 2019 - Sept. 2019.
+* Research Intern at DAMO Academy, Alibaba, July. 2019 - Sept. 2020.
 * Summer Intern at LENZTECH AI lab, July. 2018 - Sept. 2018.
 
 Publications:
 ======
+[KNAS: Green Neural Architecture Search](https://xusun.org/publication/wordnet_based_adversarial_training.pdf)  
+Jingjing Xu, Liang Zhao, Junyang Lin, Rundong Gao, Hongxia Yang and Xu Sun*  
+In **ICML'21**. Short presentation.
+
 [Long-term, Short-term and Sudden Event: Trading Volume Movement Predictionwith Graph-based Multi-view Modeling ](https://xusun.org/publication/wordnet_based_adversarial_training.pdf)  
-**Liang Zhao**#, **Wei Li**#(equavalent contribution), Ruihan Bao, Keiko Harimoto, Yunfang Wu, Xu Sun*  
-In **IJCAI'21**. Full paper.
+**Liang Zhao**#, Wei Li#(equavalent contribution), Ruihan Bao, Keiko Harimoto, Yunfang Wu, Xu Sun*  
+In **IJCAI'21**. Main track.
 
 [Graph-based Multi-hop Reasoning for Long Text Generation](https://xusun.org/publication/wordnet_based_adversarial_training.pdf)  
-**Liang Zhao**#, **Jingjing Xu**#(equavalent contribution), Junyang Lin, Yichang Zhang, Hongxia Yang, Xu Sun*  
+**Liang Zhao**#, Jingjing Xu#(equavalent contribution), Junyang Lin, Yichang Zhang, Hongxia Yang, Xu Sun*  
 In **Arxiv'20**. 
 
 [Lexical-Based Adversarial Reinforcement Training for Robust Sentiment Classification](https://xusun.org/publication/wordnet_based_adversarial_training.pdf)  
