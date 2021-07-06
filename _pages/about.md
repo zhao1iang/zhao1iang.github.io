@@ -28,7 +28,7 @@ Internship:
 Publications:
 ======
 [KNAS: Green Neural Architecture Search](https://xusun.org/publication/wordnet_based_adversarial_training.pdf)  
-Jingjing Xu, Liang Zhao, Junyang Lin, Rundong Gao, Hongxia Yang and Xu Sun*  
+Jingjing Xu, **Liang Zhao**, Junyang Lin, Rundong Gao, Hongxia Yang and Xu Sun*  
 In **ICML'21**. 
 
 [Long-term, Short-term and Sudden Event: Trading Volume Movement Predictionwith Graph-based Multi-view Modeling ](https://xusun.org/publication/wordnet_based_adversarial_training.pdf)  
