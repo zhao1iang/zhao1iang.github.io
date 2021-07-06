@@ -46,7 +46,7 @@ In **EMNLP'19**. Full paper.
 Awards:
 ======
 * Merit Student, Peking University. 2020
-* Special Academic Scholarship, Peking University. 2019  
+* Special Academic Scholarship, Peking University. 2019,2020  
 * First Prize in Shaanxi Advanced Mathematics Competition. 2017
 * National Encouragement Scholarship, Northwest Polytechnical University. 2016
 
